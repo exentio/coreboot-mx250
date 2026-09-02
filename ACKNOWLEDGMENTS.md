@@ -12,3 +12,5 @@ These are my sources:
 
 The sources provided are not public on Cisco Meraki's website, and their chatbot
 (*sigh*) couldn't provide them or a more recent version either.  
+
+Other interesting project to enable UART access on the Meraki MX250 and MX450: [riptidewave93/meraki-monsters-root](https://github.com/riptidewave93/meraki-monsters-root)

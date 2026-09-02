@@ -7,7 +7,7 @@ but not those of the MX250, so I decided to upload them myself.
 These are my sources:  
 - Compressed archive on Cisco Meraki's servers: [https://dl.meraki.net/bootloader-mx250-20230105.tar.bz2](https://dl.meraki.net/bootloader-mx250-20230105.tar.bz2)  
 - coreboot mailing list: [https://mail.coreboot.org/archives/list/coreboot@coreboot.org/message/UMDDJ5TCDGFM4QVGOTAVPGU63SULTWHK/](https://mail.coreboot.org/archives/list/coreboot@coreboot.org/message/UMDDJ5TCDGFM4QVGOTAVPGU63SULTWHK/)  
-- [The Mail Archive]: [https://www.mail-archive.com/coreboot@coreboot.org/msg58333.html](https://www.mail-archive.com/coreboot@coreboot.org/msg58333.html)  
+- The Mail Archive: [https://www.mail-archive.com/coreboot@coreboot.org/msg58333.html](https://www.mail-archive.com/coreboot@coreboot.org/msg58333.html)  
   - [(archive)](https://archive.is/8nyin)  
 
 The sources provided are not public on Cisco Meraki's website, and their chatbot
